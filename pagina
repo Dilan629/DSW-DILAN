@@ -73,7 +73,6 @@
     </section>
     <footer>
         <a href="./autor.html">Autor</a>
-        <a href="./planig.html" target="_blank">Planning</a>
-    </footer>
+        <a href="./planig.html" target="_blank">Planning</a    </footer>
 </body>
 </html>
